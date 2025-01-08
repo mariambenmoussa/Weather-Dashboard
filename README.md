@@ -18,11 +18,11 @@ This project consisys in using OpenWeather API and AWS to generate and visualize
 
 Weather-Dashboard/  
   src/  
-    __init__.py  
-    weather_dashboard.py  
-  .env  
-  .gitignore  
-  requirements.txt  
+  __init__.py  
+  weather_dashboard.py  
+.env  
+.gitignore  
+requirements.txt  
 
 ## Run the project 
 In a bash environment: 
