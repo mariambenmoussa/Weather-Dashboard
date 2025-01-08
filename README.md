@@ -1,20 +1,21 @@
-#OpenWeather Dashboard  - Devops Challenge
-##Project Overview 
+# OpenWeather Dashboard  - Devops Challenge
+## Project Overview 
 This project consisys in using OpenWeather API and AWS to generate and visualize a Weather Dashboard. 
- - OpneWeather API
+ - OpenWeather API
  - AWS S3
  - Infrastructure as Code
  - Python
  - Version Control (Git) 
  - HTML CSS
 
-##Features 
+## Features 
 - Fetches real-time Weather data for multiple cities.
 - Displays multiple data about weather conditions.
 - Stores Weather data in an AWS S3 bucket.
 - Import json API data to an HTML page to visualize the weather dashboard.
 
-##Project Structure 
+## Project Structure 
+
 Weather-Dashboard/
   src/
     __init__.py
@@ -23,7 +24,8 @@ Weather-Dashboard/
   .gitignore
   requirements.txt
 
-##Run the project 
+## Run the project 
+In a bash environment: 
 1. Clone the repository:
 git clone 
 
@@ -40,7 +42,7 @@ AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
 5. Run the application:
 python3 src/weather_dashboard.py
 
-##Results 
+## Results 
 HTML file generated will be pushed to your S3 bucket and you can visualize it by opening the file on your browser. 
 ![image](https://github.com/user-attachments/assets/326b8335-8e0a-4a6d-89b5-269250684466)
 
