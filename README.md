@@ -9,10 +9,11 @@ This project consisys in using OpenWeather API and AWS to generate and visualize
  - HTML CSS
 
 ## Features 
-- Fetches real-time Weather data for multiple cities.
+- Fetches real-time Weather data for multiple cities using Openweather API.  
 - Displays multiple data about weather conditions.
 - Stores Weather data in an AWS S3 bucket.
-- Import json API data to an HTML page to visualize the weather dashboard.
+- Import json API data to an HTML page to visualize the weather dashboard.  
+![image](https://github.com/user-attachments/assets/a5a49891-3bf2-4179-882c-4aa5d9534a95)
 
 ## Project Structure 
 
