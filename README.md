@@ -1,6 +1,6 @@
 # OpenWeather Dashboard  - Devops Challenge
 ## Project Overview 
-This project consisys in using OpenWeather API and AWS to generate and visualize a Weather Dashboard. 
+This project consists of using OpenWeather API and AWS to generate and visualize a Weather Dashboard. 
  - OpenWeather API
  - AWS S3
  - Infrastructure as Code
@@ -45,7 +45,7 @@ AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
 python3 src/weather_dashboard.py
 
 ## Results 
-HTML file generated will be pushed to your S3 bucket and you can visualize it by opening the file on your browser.   
+The generated HTML file will be pushed to your S3 bucket and you can visualize it by opening the file in your browser.   
 ![image](https://github.com/user-attachments/assets/326b8335-8e0a-4a6d-89b5-269250684466)
 
 
